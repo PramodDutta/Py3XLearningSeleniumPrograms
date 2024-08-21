@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="123a1ff7-ee1a-4904-9631-9b5ceabc4855" name="Changes" comment="16 Aug">
-      <change afterPath="$PROJECT_DIR$/19082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_016_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_017_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_018_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_019_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19082024/test_020_alerts.py" afterDir="false" />
+    <list default="true" id="123a1ff7-ee1a-4904-9631-9b5ceabc4855" name="Changes" comment="19 Aug">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_021_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_022_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_023_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_024_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_025_windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_026_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21082024/test_027_heatmapch5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +65,15 @@
     "Python tests.Python tests for test_017_exceptions.test_vwo_login_16.executor": "Run",
     "Python tests.Python tests for test_018_exceptions.test_vwo_login_16.executor": "Run",
     "Python tests.Python tests for test_020_alerts.TestAlerts.test_alerts_tc1.executor": "Run",
+    "Python tests.Python tests for test_020_alerts.TestAlerts.test_checkbox.executor": "Run",
+    "Python tests.Python tests for test_020_alerts.test_checkbox.executor": "Run",
+    "Python tests.Python tests for test_021_actions.TestSelenium33.test_positive.executor": "Run",
+    "Python tests.Python tests for test_021_actions.test_021_actions.executor": "Run",
+    "Python tests.Python tests for test_022_actions.test_022_actions.executor": "Run",
+    "Python tests.Python tests for test_023_actions.test_022_actions.executor": "Run",
+    "Python tests.Python tests for test_024_actions.test_022_actions.executor": "Run",
+    "Python tests.Python tests for test_025_windows.test_022_windows.executor": "Run",
+    "Python tests.Python tests for test_026_actions.test_026_windows.executor": "Run",
     "Python tests.Python tests for test_Lab002.test_login.executor": "Run",
     "Python tests.Python tests for test_Lab002.test_open_vwologin.executor": "Run",
     "Python tests.Python tests for test_Lab003.test_open_vwologin.executor": "Run",
@@ -78,105 +90,108 @@
     "Python tests.Python tests in test_016_exceptions.py.executor": "Run",
     "Python tests.Python tests in test_018_exceptions.py.executor": "Run",
     "Python tests.Python tests in test_019_exceptions.py.executor": "Run",
+    "Python tests.Python tests in test_022_actions.py.executor": "Run",
+    "Python tests.Python tests in test_024_actions.py.executor": "Run",
+    "Python tests.Python tests in test_026_actions.py.executor": "Run",
     "Python tests.Python tests in test_Lab005.py.executor": "Run",
     "Python tests.Python tests in test_sele_Lab001.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/Py3XLearningSeleniumPrograms/19082024"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/Py3XLearningSeleniumPrograms/21082024"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/21082024" />
       <recent name="$PROJECT_DIR$/19082024" />
       <recent name="$PROJECT_DIR$/16082024" />
       <recent name="$PROJECT_DIR$/14082024" />
       <recent name="$PROJECT_DIR$/12082024" />
-      <recent name="$PROJECT_DIR$/09082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_020_alerts.TestAlerts.test_checkbox">
-    <configuration name="Python tests for test_017_exceptions.test_vwo_login_16" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="Python tests for test_022_actions.test_022_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_017_exceptions.test_vwo_login_16&quot;" />
+      <option name="_new_target" value="&quot;test_022_actions.test_022_actions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_018_exceptions.test_vwo_login_16" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_023_actions.test_022_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_018_exceptions.test_vwo_login_16&quot;" />
+      <option name="_new_target" value="&quot;test_023_actions.test_022_actions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_020_alerts.TestAlerts.test_alerts_tc1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_024_actions.test_022_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_020_alerts.TestAlerts.test_alerts_tc1&quot;" />
+      <option name="_new_target" value="&quot;test_024_actions.test_022_actions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_020_alerts.TestAlerts.test_checkbox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_025_windows.test_022_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_020_alerts.TestAlerts.test_checkbox&quot;" />
+      <option name="_new_target" value="&quot;test_025_windows.test_022_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_020_alerts.test_checkbox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_026_actions.test_026_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_020_alerts.test_checkbox&quot;" />
+      <option name="_new_target" value="&quot;test_026_actions.test_026_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_020_alerts.TestAlerts.test_checkbox" />
-        <item itemvalue="Python tests.Python tests for test_020_alerts.test_checkbox" />
-        <item itemvalue="Python tests.Python tests for test_020_alerts.TestAlerts.test_alerts_tc1" />
-        <item itemvalue="Python tests.Python tests for test_018_exceptions.test_vwo_login_16" />
-        <item itemvalue="Python tests.Python tests for test_017_exceptions.test_vwo_login_16" />
+        <item itemvalue="Python tests.Python tests for test_026_actions.test_026_windows" />
+        <item itemvalue="Python tests.Python tests for test_025_windows.test_022_windows" />
+        <item itemvalue="Python tests.Python tests for test_024_actions.test_022_actions" />
+        <item itemvalue="Python tests.Python tests for test_023_actions.test_022_actions" />
+        <item itemvalue="Python tests.Python tests for test_022_actions.test_022_actions" />
       </list>
     </recent_temporary>
   </component>
@@ -220,14 +235,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723776930745</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="19 Aug">
+      <option name="closed" value="true" />
+      <created>1724035714224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724035714224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code added" />
     <MESSAGE value="12 Aug 2024" />
     <MESSAGE value="16 Aug" />
-    <option name="LAST_COMMIT_MESSAGE" value="16 Aug" />
+    <MESSAGE value="19 Aug" />
+    <option name="LAST_COMMIT_MESSAGE" value="19 Aug" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
